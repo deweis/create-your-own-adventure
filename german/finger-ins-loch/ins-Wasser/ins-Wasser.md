@@ -3,4 +3,4 @@ sie keine Kraft haben, sondern weil Sie in der Ferne eine Rueckenflosse aus dem 
 sie einem Hai? Was Sie nicht bedacht haben: Das Boot hat eine hohe Außenkante und es ist nun unmoeglich 
 für Sie, zurück ins Boot zu steigen! 
 
-Da bleibt Ihnen wohl nur noch übrig [Aus dem Traum aufzuwachen und das Oktoberfest zu besuchen](Oktoberfest/oktoberfest.md)
+Da bleibt Ihnen wohl nur noch übrig [Aus dem Traum aufzuwachen und das Oktoberfest zu besuchen](../../Oktoberfest/oktoberfest.md)
